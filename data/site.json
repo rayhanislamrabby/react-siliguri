@@ -87,6 +87,22 @@
         "https://ik.imagekit.io/t1i7pehzv/Events/December%20Meetup%202025/img2.webp?updatedAt=1765033103531",
         "https://ik.imagekit.io/t1i7pehzv/Events/December%20Meetup%202025/img3.webp?updatedAt=1765033103525"
       ]
+    },
+    {
+      "id": 2,
+      "title": "React Siliguri March Meetup – Offline Hands-on Workshop",
+      "description": "Join us for an in-person React workshop in association with IEEE JGEC 💻🚀",
+      "imageUrl": "https://ik.imagekit.io/t1i7pehzv/Events/March%20Meetup%202026/March%20Meetup%202026.webp",
+      "date": "2026-03-07",
+      "time": "3:00 PM - 5:00 PM",
+      "venue": "Jalpaiguri Government Engineering College",
+      "speaker": "Call for speakers open",
+      "type": "Workshop",
+      "status": "upcoming",
+      "registrationUrl": "https://www.commudle.com/fill-form/4510",
+      "speakerFormUrl": "https://www.commudle.com/fill-form/4509",
+      "speakers": [],
+      "eventPictures": []
     }
   ],
   "team": [
