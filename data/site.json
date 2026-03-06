@@ -99,9 +99,36 @@
       "speaker": "Call for speakers open",
       "type": "Workshop",
       "status": "upcoming",
-      "registrationUrl": "https://www.commudle.com/fill-form/4510",
-      "speakerFormUrl": "https://www.commudle.com/fill-form/4509",
-      "speakers": [],
+      "registrationUrl": "",
+      "speakerFormUrl": "",
+      "speakers": [
+        {
+          "id": 1,
+          "name": "Debajit Mallick",
+          "image": "https://ik.imagekit.io/t1i7pehzv/Core%20Team/Debajit%20Mallick.jpg?updatedAt=1762974926993",
+          "designation": "Software Engineer",
+          "company": "Ergeon",
+          "sessionTitle": "Building Modern Web Apps with React",
+          "social": {
+            "github": "https://github.com/KushalGhosh9899",
+            "linkedin": "https://www.linkedin.com/in/debajit-mallick",
+            "twitter": "https://twitter.com/MallickDebajit"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Swarup Das",
+          "image": "https://ik.imagekit.io/t1i7pehzv/Core%20Team/Swarup%20Das.webp?updatedAt=1762975138305",
+          "designation": "Software Engineer",
+          "company": "P360",
+          "sessionTitle": "React 101: Getting Started with React",
+          "social": {
+            "github": "https://github.com/Das-Swarup",
+            "linkedin": "https://www.linkedin.com/in/swarup-das-8bb857200/",
+            "twitter": "https://x.com/the5to9guy"
+          }
+        }
+      ],
       "eventPictures": []
     }
   ],
